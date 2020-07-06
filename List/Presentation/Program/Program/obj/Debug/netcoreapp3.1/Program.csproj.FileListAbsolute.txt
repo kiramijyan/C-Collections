@@ -1,0 +1,13 @@
+D:\Bootcamp\C_Sharp\pluralsight\C# Collections\List\Presentation\Program\Program\bin\Debug\netcoreapp3.1\Program.exe
+D:\Bootcamp\C_Sharp\pluralsight\C# Collections\List\Presentation\Program\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+D:\Bootcamp\C_Sharp\pluralsight\C# Collections\List\Presentation\Program\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+D:\Bootcamp\C_Sharp\pluralsight\C# Collections\List\Presentation\Program\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+D:\Bootcamp\C_Sharp\pluralsight\C# Collections\List\Presentation\Program\Program\bin\Debug\netcoreapp3.1\Program.dll
+D:\Bootcamp\C_Sharp\pluralsight\C# Collections\List\Presentation\Program\Program\bin\Debug\netcoreapp3.1\Program.pdb
+D:\Bootcamp\C_Sharp\pluralsight\C# Collections\List\Presentation\Program\Program\obj\Debug\netcoreapp3.1\Program.csprojAssemblyReference.cache
+D:\Bootcamp\C_Sharp\pluralsight\C# Collections\List\Presentation\Program\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+D:\Bootcamp\C_Sharp\pluralsight\C# Collections\List\Presentation\Program\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+D:\Bootcamp\C_Sharp\pluralsight\C# Collections\List\Presentation\Program\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+D:\Bootcamp\C_Sharp\pluralsight\C# Collections\List\Presentation\Program\Program\obj\Debug\netcoreapp3.1\Program.dll
+D:\Bootcamp\C_Sharp\pluralsight\C# Collections\List\Presentation\Program\Program\obj\Debug\netcoreapp3.1\Program.pdb
+D:\Bootcamp\C_Sharp\pluralsight\C# Collections\List\Presentation\Program\Program\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
